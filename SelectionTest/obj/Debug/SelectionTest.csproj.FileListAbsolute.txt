@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\SelectionTest\SelectionTest\obj\Debug\SelectionTest.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\SelectionTest\SelectionTest\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\SelectionTest\SelectionTest\obj\Debug\App.g.cs
+C:\Users\User\source\repos\SelectionTest\SelectionTest\obj\Debug\SelectionTest_MarkupCompile.cache
+C:\Users\User\source\repos\SelectionTest\SelectionTest\obj\Debug\SelectionTest_MarkupCompile.lref
+C:\Users\User\source\repos\SelectionTest\SelectionTest\bin\Debug\SelectionTest.exe.config
+C:\Users\User\source\repos\SelectionTest\SelectionTest\bin\Debug\SelectionTest.exe
+C:\Users\User\source\repos\SelectionTest\SelectionTest\bin\Debug\SelectionTest.pdb
+C:\Users\User\source\repos\SelectionTest\SelectionTest\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\SelectionTest\SelectionTest\obj\Debug\SelectionTest.g.resources
+C:\Users\User\source\repos\SelectionTest\SelectionTest\obj\Debug\SelectionTest.Properties.Resources.resources
+C:\Users\User\source\repos\SelectionTest\SelectionTest\obj\Debug\SelectionTest.csproj.GenerateResource.cache
+C:\Users\User\source\repos\SelectionTest\SelectionTest\obj\Debug\SelectionTest.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SelectionTest\SelectionTest\obj\Debug\SelectionTest.exe
+C:\Users\User\source\repos\SelectionTest\SelectionTest\obj\Debug\SelectionTest.pdb
+C:\Users\User\source\repos\SelectionTest\SelectionTest\obj\Debug\Window1.g.cs
+C:\Users\User\source\repos\SelectionTest\SelectionTest\obj\Debug\Window1.baml
